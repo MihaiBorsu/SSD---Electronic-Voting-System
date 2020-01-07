@@ -1,0 +1,2 @@
+This is a angular project which recreates the current frontend. It has not been configured yet to request data from the
+Django app Voting API

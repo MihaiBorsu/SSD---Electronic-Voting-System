@@ -1,0 +1,2 @@
+This is a partially working API. The main goal is to build a totally separate frontend app which uses this API to gather the
+data Django provides as a backend app.
