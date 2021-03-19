@@ -4,7 +4,7 @@ Django==1.11.5
 django-debug-toolbar==1.8
 django-environ==0.4.4
 django-widget-tweaks==1.4.1
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 enum34==1.1.6
 future==0.16.0
 futures==3.3.0
